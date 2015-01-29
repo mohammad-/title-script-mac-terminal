@@ -6,4 +6,5 @@ Hope this helps others...
 
 
 Reference:
-http://superuser.com/questions/395911/how-to-set-the-title-of-the-tab-in-terminal-app-to-the-remote-server-im-logged
+$http://superuser.com/questions/395911/how-to-set-the-title-of-the-tab-in-terminal-app-to-the-remote-server-im-logged
+$http://stackoverflow.com/questions/1371261/get-current-directory-name-without-full-path-in-bash-script

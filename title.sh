@@ -1,1 +1,2 @@
-echo -ne '\033]0; '$1' \007'
+result=${PWD##*/}
+echo -ne '\033]0; '$result' \007'
